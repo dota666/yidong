@@ -1,0 +1,23 @@
+body,li,ul,p,pre,ol,form,input,h1,h2,h3,h4,h5,h6,dl,dd{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+a{
+	text-decoration:none;
+}
+*{
+	font-family: "微软雅黑"
+}
+img{
+	border: none;
+}
+input{
+    z-index: 2;
+    float: left;
+    line-height: 29px;
+    font-size: 14px;
+    color: #999;
+    background-color: #FFF;
+    padding-left: 5px;
+}
